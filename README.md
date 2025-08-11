@@ -4,8 +4,11 @@
 <h1 align="center">💻 | Nitro Generator</h1>
 
 **- Very Fast**
+
 **- Simple Usage**
+
 **- Custom Thread**
+
 **- If he finds a usable nitro, he will save it for you in the nitro.txt**
 
 <h2 align="center">❓ | How to use ?</h2>
