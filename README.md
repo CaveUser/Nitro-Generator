@@ -5,7 +5,6 @@
 
 <h2 align="center">❓ | How to use ?</h2>
 
-## | Requirements |
 **- Use Python 11.9 or higher**
 
 **- Use pip install -r requirements.txt**
